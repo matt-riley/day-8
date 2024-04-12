@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev:part1": "tsx ./src/part1.ts",
+    "dev:part2": "tsx ./src/part2.ts",
     "test": "node --import tsx --test **/*.test.ts"
   },
   "keywords": [],
